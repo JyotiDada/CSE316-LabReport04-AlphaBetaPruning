@@ -25,3 +25,16 @@ The program compares:
 
 ```bash
 python main.py
+
+
+Generated Leaf Nodes: [3, 5, 2, 9, 12, 5, 23, 23]
+
+Minimax:
+Nodes Evaluated: 15
+Optimal Value: 12
+
+Alpha-Beta Pruning:
+Nodes Evaluated: 9
+Nodes Pruned: 6
+
+Efficiency Improvement: 40.0%
